@@ -5,7 +5,7 @@
 ### Software Engineering • Automation • Backend Systems
 
 [![Website](https://img.shields.io/badge/Website-rylax.pro-black?style=for-the-badge&logo=google-chrome)](https://rylax.pro)
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/rylax)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/V3SGO)
 [![GitHub](https://img.shields.io/badge/GitHub-Rylax--Corporations-181717?style=for-the-badge&logo=github)](https://github.com/rylax-corporations)
 
 </div>
@@ -64,7 +64,7 @@ All projects are designed with:
 👉 https://rylax.pro  
 
 💬 **Telegram**  
-👉 https://t.me/rylax  
+👉 https://t.me/V3SGO  
 
 📁 **GitHub Organization**  
 👉 https://github.com/rylax-corporations  
